@@ -13,7 +13,7 @@ HTML · CSS · Vanilla JS
 
 ## Authors
 - [Refif Ilan](https://refif.dev)
-- Developed with [Reveillon Enzo](https://reveillon-photographie.fr/)
+- Developed with [Reveillon Enzo](https://reveillon-photographie.fr/) (@Moss-Web-Dev)
 
 ## Note
 This is a school project built for learning purposes. All car images and brands are used for educational use only.
